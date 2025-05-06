@@ -1,2 +1,30 @@
 # Pandas_Project_4
-This project aimed to analyze the population structure of South Korea. It conducted an in-depth examination of demographic patterns across Seoul’s districts, provinces, and metropolitan cities, ultimately concluding with predictions of South Korea’s future population trends.
+
+- 본 프로젝트는 대한민국의 인구 구조를 분석하는 것을 목표로 하였습니다.
+- 서울 각 자치구를 비롯해 전국의 도와 광역시를 중심으로 인구 통계 패턴을 심층적으로 조사하였으며, 궁극적으로 대한민국의 미래 인구 추세를 예측하는 데까지 나아갔습니다.
+
+## 🔧 사용한 기술
+
+- Python
+- Matplotlib
+- Pandas
+- Numpy
+
+## 📂 활용 데이터셋 출처
+
+- 통계청 국내인구이동통계
+- KOSIS 지역내총생산, 인구 통계 
+
+## 📂 파일 설명 
+
+- mp_1.py : 광역시별 전입 인구 수 비교 
+- mp_2.py : 인구 피라미드 시각화 
+- mp_3.py : 부산 각 구별 전입 인구와 GRDP 상관관계 분석 
+- mp4.py : 광역시별 순이동인구 시각화
+
+## 🎯 프로젝트 목표 
+
+- Pandas 라이브러를 활용한 데이터 분석
+- Matplotlib 라이브러리를 활용한 시각화
+- Numpy 활용
+- 한국의 인구 구조 분석을 통해 유의미한 시사점 도출
